@@ -7,3 +7,4 @@
 - Keyanna
 - Cody
 - Kirby
+- Sigrid
